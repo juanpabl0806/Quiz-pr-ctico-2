@@ -6,6 +6,10 @@ Desplegar e investigación
 <img width="826" height="269" alt="image" src="https://github.com/user-attachments/assets/e8792a34-d6d4-43d2-b38b-958f509de526" />
 <img width="967" height="1208" alt="image" src="https://github.com/user-attachments/assets/eb7d5f89-7744-4dd2-b467-ab6d1700dfcc" />
 <img width="926" height="722" alt="image" src="https://github.com/user-attachments/assets/74efd6f3-fdf6-4580-af72-16f7174a1047" />
+---
+**Vigilancia Tecnológica: Robótica con Sistemas Digitales en la Computación Cuántica**
+La convergencia entre la robótica y la computación cuántica representa una frontera emergente en la innovación tecnológica.
+Esta vigilancia tecnológica tiene como objetivo identificar avances recientes, actores clave y aplicaciones industriales que integran sistemas digitales robóticos con capacidades cuánticas, especialmente a través del análisis de patentes actuales.
 
 | Nº | Título de la Patente | Titular | Aplicación |
 |:--:|----------------------|---------|------------|
@@ -14,3 +18,8 @@ Desplegar e investigación
 | 3  | Quantum-assisted robotic swarm coordination | D-Wave Systems Inc. | Coordinación de enjambres robóticos con algoritmos de optimización cuántica |
 | 4  | Quantum cryptography for robotic networks | Toshiba Corporation | Seguridad en redes de robots mediante cifrado cuántico |
 | 5  | Quantum simulation of robotic materials | MIT | Simulación de materiales inteligentes para sensores y piel robótica |
+
+**Conclusión**
+La robótica con sistemas digitales en la computación cuántica es un campo emergente con alto potencial disruptivo.
+Las patentes analizadas muestran que los avances no son meramente teóricos, sino que ya se están trasladando a aplicaciones industriales reales.
+La vigilancia tecnológica continua será clave para anticipar oportunidades y posicionarse estratégicamente en esta convergencia.
