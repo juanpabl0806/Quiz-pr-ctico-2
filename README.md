@@ -3,13 +3,31 @@
 Despliegue e investigación 
 
 
+actualizacion general y descarga de git para asi poder clonar el repositorio base 
 
 <img width="1600" height="1007" alt="image" src="https://github.com/user-attachments/assets/8c6bd99c-8ba7-493d-a4e3-b708c0decc6b" />
+
+se crea la carpeta donde se va a relizar todo el proceso y se procede a clonar el repositorio a utilizarse asi como todas sus dependencias necesarias 
+
 <img width="1600" height="651" alt="image" src="https://github.com/user-attachments/assets/991e6537-bfbb-4412-aaec-4ad33bf0537f" />
+
+despliegue de todo el entorno virtual y se hace la dockerizacion para asi ingresar a este contenedor terminando de configurar el entorno virtual 
+
 <img width="1600" height="1007" alt="image" src="https://github.com/user-attachments/assets/5018d696-e4f0-4d80-a345-9bd910ee7ae8" />
+
+Error comun que puede suceder es que no sea compatible la version grafica con la dockerizacion y si no funciona cambiando la version de ubuntu aun se puede usar la dockerizacion sin ejecutar graficamente 
+
 <img width="826" height="269" alt="image" src="https://github.com/user-attachments/assets/e8792a34-d6d4-43d2-b38b-958f509de526" />
+
+A continuacion se evidencia el correcto funcionamiento del despliegue aun sin necesidad de usar forma grafica, se puede controlar aun asi el movimiento y todo usando una serie de comandos 
+
 <img width="967" height="1208" alt="image" src="https://github.com/user-attachments/assets/eb7d5f89-7744-4dd2-b467-ab6d1700dfcc" />
 <img width="926" height="722" alt="image" src="https://github.com/user-attachments/assets/74efd6f3-fdf6-4580-af72-16f7174a1047" />
+
+forma de cambiar la version de ubuntu para intentar que sea compatible 
+
+<img width="490" height="143" alt="image" src="https://github.com/user-attachments/assets/433f3f12-6d1a-4eef-8caa-ed4c49d53d13" />
+
 ---
 **Vigilancia Tecnológica: Robótica con Sistemas Digitales en la Computación Cuántica**
 
