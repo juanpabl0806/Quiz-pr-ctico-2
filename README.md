@@ -1,5 +1,9 @@
 # Quiz-practico-2
+
 Despliegue e investigación 
+
+
+
 <img width="1600" height="1007" alt="image" src="https://github.com/user-attachments/assets/8c6bd99c-8ba7-493d-a4e3-b708c0decc6b" />
 <img width="1600" height="651" alt="image" src="https://github.com/user-attachments/assets/991e6537-bfbb-4412-aaec-4ad33bf0537f" />
 <img width="1600" height="1007" alt="image" src="https://github.com/user-attachments/assets/5018d696-e4f0-4d80-a345-9bd910ee7ae8" />
